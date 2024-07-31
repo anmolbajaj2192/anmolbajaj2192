@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Anmol Bajaj.</h1>
 <h3 align="center">A Learner, Student and an Engineer.</h3>
 
-- 🔭 I’m currently working on **AIRBNB website**
+- 🔭  I’m working as a Software Engineering student, passionate about coding and problem-solving.
 
-- 🌱 I’m currently learning **Nodejs, ExpressJS, MongoDB**
+- 🌱I'm currently learning and expanding my skills in full-stack development, exploring technologies like NextJS, ReactJS and NodeJS.
 
 - 📫 How to reach me **banmol241@gmail.com**
 
