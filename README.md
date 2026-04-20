@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Anmol Bajaj.</h1>
-<h3 align="center">A Learner, Student and an Engineer.</h3>
+<h3 align="center">Data Engineer | Building ETL Pipelines | AWS | Python | Open to Remote Opportunities.</h3>
 
 - 🔭  I’m working as a Software Engineering student, passionate about coding and problem-solving.
 
